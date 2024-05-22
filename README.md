@@ -13,14 +13,6 @@
 
 Proyek ini adalah bagian dari tugas mini coding yang bertujuan untuk menghitung luas dan keliling segitiga menggunakan HTML, CSS, dan JavaScript. Aplikasi ini memungkinkan pengguna untuk memasukkan panjang sisi-sisi segitiga dan kemudian menampilkan luas dan kelilingnya.
 
-## Struktur Proyek
-
-├── index.html # Halaman utama aplikasi
-├── css/styles.css # File CSS untuk styling
-├── js/script.js # File JavaScript untuk logika aplikasi
-├── assets # Untuk menyimpan gambar
-├── README.md # Dokumentasi proyek
-
 ## Fitur
 
 - **Menghitung Luas Segitiga**: Menghitung luas segitiga menggunakan rumus alas di kali tinggi.
