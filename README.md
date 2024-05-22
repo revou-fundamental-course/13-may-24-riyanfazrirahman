@@ -4,10 +4,10 @@
 
 ## Table of Contents
 
-- [Deskripsi Proyek](#Deskripsi)
-- [Struktur Proyek](#Struktur)
-- [Fitur](#Fitur)
-- [Teknologi yang Digunakan](#Teknologi)
+- [Deskripsi Proyek](#deskripsi-proyek)
+- [Struktur Proyek](#struktur-proyek)
+- [Fitur](#fitur)
+- [Teknologi yang Digunakan](#Teknologi-yang-Digunakan)
 
 ## Deskripsi Proyek
 
