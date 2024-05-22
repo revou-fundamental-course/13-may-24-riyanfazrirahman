@@ -1,11 +1,10 @@
 # 13-may-24-riyanfazrirahman
 
-# Tugas Mini Coding Project: Luas dan Keliling Segitiga
+## Tugas Mini Coding Project: Luas dan Keliling Segitiga
 
 ## Table of Contents
 
 - [Deskripsi Proyek](#deskripsi-proyek)
-- [Struktur Proyek](#struktur-proyek)
 - [Fitur](#fitur)
 - [Teknologi yang Digunakan](#Teknologi-yang-Digunakan)
 
